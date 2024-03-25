@@ -1,0 +1,100 @@
+body{
+
+background-color: #EAE7E7;
+
+}
+
+h1{
+
+color: #494949;
+text-align: center;
+font-size: 32px;
+font-family: sans-serif;
+}
+
+.gris{
+
+background-color: #CACACA;
+font-family: sans-serif;
+
+
+
+}
+
+.grisoscuro{
+
+color: red;
+background-color: #7E7E7E;
+font-size: 25px;
+font-weight: bold;
+font-family: sans-serif;
+
+}
+
+.azul{
+
+background-color: #CACACA;
+color: blue;
+text-decoration: underline;
+display: inline;
+font-size: 17px;
+font-family: sans-serif;
+font-weight: bold;
+
+}
+
+p{
+
+    background-color: #cccccc;
+    font-style: normal;
+ font-family: sans-serif;
+
+
+}
+
+em{
+font-family: sans-serif;
+color: blue;
+font-style: normal;
+font-weight: bold;
+text-decoration: underline;
+}
+
+b {
+    
+font-weight: normal;
+color: green;
+font-style: normal;
+
+
+}
+
+.oscuro {
+
+    color: black;
+    background-color: #7E7E7E;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+.violeta{
+
+color: #893E82;
+font-size: 20px;
+font-weight: bold;
+font-family: sans-serif;    
+background-color: #C0BDBD;
+
+}
+
+.rojo{
+
+color: #CE0808;
+font-size: 25px;
+font-weight: bold;
+font-family: sans-serif;    
+background-color: #C0BDBD;
+
+}

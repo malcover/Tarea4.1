@@ -1,0 +1,49 @@
+body {
+
+background-color: #9CEBEA;
+font-family: sans-serif;
+}
+
+h1 {
+
+text-align: center;
+font-size: 50px;
+border: 10px rebeccapurple solid;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+
+}
+
+h2 {
+
+font-size: 35px;
+background-color: #1FBFF2;
+
+}
+
+.cursive{
+
+ font-style: italic; 
+    
+}
+
+.estilos{
+
+background-color: #A1DEF1;
+color: white;
+font-weight: bold;
+font-size: 25px;
+}
+
+.kr{
+
+background-color: white;
+color: black;
+font-weight: bold;
+
+}
+
+
+
